@@ -1,5 +1,3 @@
-# VirtCam
-Android Virtual Camera
 > Warning: This project is for study usage only, DO NOT use it for illegal purposes.
 
 # Usage
@@ -24,7 +22,3 @@ android.hardware.Camera#startPreview
 android.hardware.Camera#setPreviewCallback
 android.hardware.Camera$PreviewCallback#onPreviewFrame
 ```
-
-# Credits
-* VCam: https://github.com/Xposed-Modules-Repo/com.example.vcam
-* Android-VideoToImages: https://github.com/zhantong/Android-VideoToImages
